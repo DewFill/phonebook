@@ -1,0 +1,29 @@
+{
+    "tables": {
+        "contacts": {
+            "last_insert_id": 3,
+            "schema": {
+                "id": "auto_increment",
+                "name": "string",
+                "phone_number": "string"
+            },
+            "values": {
+                "1": [
+                    1,
+                    "Contact 1",
+                    "89604837465"
+                ],
+                "2": [
+                    2,
+                    "Contact 2",
+                    "89385736458"
+                ],
+                "3": [
+                    3,
+                    "Contact 3",
+                    "89273746506"
+                ]
+            }
+        }
+    }
+}
